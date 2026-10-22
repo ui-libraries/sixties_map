@@ -4,10 +4,13 @@
 
 <head>
   <meta charset="utf-8" />
-  <!-- Give the page a title -->
-  <title>Uptight & Laid-Back</title>
-  <!-- Add a link to the Leaflet CSS library so you can reference it for styling yourhttps map -->
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
+  <!-- A11Y: viewport meta added so the page scales on mobile and users can still pinch-zoom (WCAG 1.4.4, 1.4.10) -->
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- A11Y: descriptive, unique page title (WCAG 2.4.2); "&" escaped -->
+  <title>Uptight &amp; Laid-Back | Interactive 1960s Map</title>
+  <!-- Add a link to the Leaflet CSS library so you can reference it for styling your map -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Michroma&display=swap" rel="stylesheet">
@@ -21,6 +24,61 @@
       margin: 0px;
       height: 100%;
       width: 100%;
+    }
+
+    /* ---------- A11Y utilities ---------- */
+
+    /* Visually hidden, but available to screen readers */
+    .sr-only {
+      position: absolute !important;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
+    }
+
+    [hidden] {
+      display: none !important;
+    }
+
+    /* Skip link: hidden until it receives keyboard focus */
+    .skip-link {
+      position: absolute;
+      left: 8px;
+      top: -100px;
+      z-index: 2000;
+      padding: 10px 14px;
+      background: #fff;
+      color: #000;
+      font: 16px/1.2 Arial, sans-serif;
+      border: 2px solid #000;
+      border-radius: 3px;
+    }
+
+    .skip-link:focus {
+      top: 8px;
+    }
+
+    /* Visible, high-contrast keyboard focus indicator on every interactive element.
+       !important is needed because Leaflet sets an inline "outline: none" after mouse clicks on focusable elements. */
+    a:focus-visible,
+    button:focus-visible,
+    input:focus-visible,
+    .leaflet-container:focus-visible,
+    .leaflet-marker-icon:focus-visible,
+    .leaflet-control-zoom a:focus-visible,
+    path.leaflet-interactive:focus-visible {
+      outline: 3px solid #005fcc !important;
+      outline-offset: 2px;
+    }
+
+    /* The popup box itself only receives programmatic focus */
+    .leaflet-popup:focus {
+      outline: none;
     }
 
     /* style the map */
@@ -53,16 +111,14 @@
        padding:0; /* If your want no padding */
     }
 
+    /* A11Y: the lockup is now a real <img> with alt text instead of a CSS background */
     #lockup {
-      background-image: url('icons/University-Libraries-LockupHorizontal-RGB-removebg-preview.png');
       position: fixed;
       bottom: 20px;
       right: 10px;
       width: 160px;
-      height: 39px;
+      height: auto;
       z-index: 700;
-      background-repeat: no-repeat;
-      background-size: 160px auto;
     }
 
     /* Set time slider styles */
@@ -123,44 +179,236 @@
       background-size: auto 150px;
     }
 
+    /* A11Y: darker, underlined popup links (contrast + not relying on color alone; WCAG 1.4.1, 1.4.3) */
+    .leaflet-popup-content a {
+      color: #004a99;
+      text-decoration: underline;
+    }
+
+    /* A11Y: darker close "x" for contrast */
+    .leaflet-container a.leaflet-popup-close-button {
+      color: #222;
+    }
+
+    /* A11Y: hover enlargement now done in CSS so it also applies on keyboard focus,
+       and no longer rebuilds the marker element (which dropped keyboard focus). */
+    .photo-icon:hover,
+    .photo-icon:focus,
+    .protest-icon:hover,
+    .protest-icon:focus {
+      scale: 1.17;
+    }
+
+    /* ---------- Text-list control and panel (non-visual alternative to the map) ---------- */
+    .text-list-control button {
+      display: block;
+      min-height: 30px;
+      padding: 4px 10px;
+      font: 14px/1.3 Arial, sans-serif;
+      color: #000;
+      background: linear-gradient(to right, rgba(255,255,255, 0.85), rgba(255,255,255, 0.85)), url('images/60s_wallpaper.jpg');
+      background-size: auto 150px;
+      border: 0;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    .text-list-control button:hover {
+      text-decoration: underline;
+    }
+
+    .text-panel {
+      position: fixed;
+      left: 10px;
+      bottom: 100px;
+      z-index: 1100;
+      box-sizing: border-box;
+      width: min(360px, calc(100vw - 20px));
+      max-height: min(60vh, calc(100vh - 220px));
+      overflow-y: auto;
+      padding: 12px 16px;
+      background: #fff;
+      color: #000;
+      font: 15px/1.4 Arial, sans-serif;
+      border: 2px solid #000;
+      border-radius: 4px;
+    }
+
+    .text-panel h2 {
+      margin: 0;
+      font-size: 18px;
+    }
+
+    .text-panel h2:focus {
+      outline: none;
+    }
+
+    .text-panel h3 {
+      margin: 14px 0 4px;
+      font-size: 16px;
+    }
+
+    .text-panel-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .text-panel ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .text-panel button {
+      font: inherit;
+      color: #004a99;
+      background: none;
+      border: 0;
+      padding: 4px 0;
+      text-align: left;
+      text-decoration: underline;
+      cursor: pointer;
+    }
+
+    .text-panel .panel-close {
+      color: #000;
+      border: 2px solid #000;
+      border-radius: 3px;
+      padding: 4px 10px;
+      text-decoration: none;
+    }
+
+    /* A11Y: reflow for narrow screens / high zoom (WCAG 1.4.10).
+       The year controls drop below the header so they never collide with the logo. */
+    @media (max-width: 640px) {
+      #slider,
+      #temporal {
+        top: 66px;
+      }
+
+      .leaflet-top.leaflet-right {
+        margin-top: 44px;
+      }
+    }
+
+    /* A11Y: respect reduced-motion preference (WCAG 2.3.3) */
+    @media (prefers-reduced-motion: reduce) {
+      .leaflet-zoom-anim .leaflet-zoom-animated,
+      .leaflet-fade-anim .leaflet-popup {
+        transition: none !important;
+      }
+    }
+
   </style>
 </head>
 
 <body>
-  <!-- Header content -->
+  <!-- A11Y: skip link (WCAG 2.4.1) -->
+  <a class="skip-link" href="#map">Skip to map</a>
+
+  <!-- Header content (implicit "banner" landmark) -->
   <header>
     <!-- logo -->
     <!--<a href="https://dsps.lib.uiowa.edu/sixties/"><div id="logo" class="picture1">&nbsp;</div></a>-->
-    
+
+    <!-- A11Y: alt text describes the link's purpose instead of repeating the URL (WCAG 1.1.1, 2.4.4).
+         Edit the wording if the logo graphic says something different. -->
     <a href="https://dsps.lib.uiowa.edu/sixties/">
-      <img src="images/topslab_map.png" class="picture1" alt="dsps.lib.uiowa.edu/sixties/">
+      <img src="images/topslab_map.png" class="picture1" alt="Uptight &amp; Laid-Back project home page">
     </a>
 
     <!-- ui slider -->
     <div id="slider" class="leaflet-control">
+      <!-- A11Y: programmatic label + usage hint for the slider (WCAG 1.3.1, 3.3.2, 4.1.2) -->
+      <label for="year-slider" class="sr-only">Year, from 1958 to 1975</label>
+      <span id="slider-help" class="sr-only">Use the left and right arrow keys to change the year. The map updates automatically.</span>
       <!-- Use the first and last year of the time data as the min and max. Set the initial value as the first year. Set the steps at one year. -->
-      <input type="range" min="1958" max="1975" value="1958" step="1" class="slider" />
+      <input type="range" id="year-slider" min="1958" max="1975" value="1958" step="1" class="slider"
+             title="Select year" aria-describedby="slider-help" />
     </div>
     <!-- temporal legend -->
-    <div id='temporal'>
+    <!-- A11Y: aria-hidden because the slider already announces its value; changes are announced via #map-status -->
+    <div id='temporal' aria-hidden="true">
       <span></span>
     </div>
   </header>
-  <div id="lockup"></div>
-  <!-- the map -->
-  <div id="map"></div>
+
+  <!-- A11Y: decorative-free, real image with alt text (was an empty div with a CSS background) -->
+  <img id="lockup" src="icons/University-Libraries-LockupHorizontal-RGB-removebg-preview.png" alt="University of Iowa Libraries">
+
+  <!-- A11Y: main landmark, page heading, live status, and map instructions -->
+  <main id="main">
+    <h1 class="sr-only">Uptight &amp; Laid-Back: interactive map of the 1960s</h1>
+    <div id="map-status" class="sr-only" role="status" aria-live="polite" aria-atomic="true"></div>
+    <p id="map-help" class="sr-only">
+      Interactive map. Use the year slider to choose a year. Use the arrow keys to pan and the plus and minus keys to zoom.
+      Press Tab to move between buildings, photographs and protests, then Enter or Space to open details, and Escape to close them.
+      A text list of everything shown for the selected year is available from the Text list of features button.
+    </p>
+
+    <!-- the map -->
+    <div id="map" role="region" aria-label="Interactive map of the University of Iowa campus and Iowa City in the 1960s" aria-describedby="map-help"></div>
+
+    <!-- Text alternative to the map for the selected year -->
+    <div id="text-panel" class="text-panel" role="region" aria-labelledby="text-panel-title" hidden>
+      <div class="text-panel-head">
+        <h2 id="text-panel-title" tabindex="-1">Map features</h2>
+        <button type="button" class="panel-close" id="text-panel-close">Close</button>
+      </div>
+      <div id="text-panel-body"></div>
+    </div>
+  </main>
+
   <!-- Add a link to the Leaflet JavaScript library so you can reference it for building your map -->
-  <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+          integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
   <!-- Add a link to the jQuery JavaScript library so you can leverage ajax methods to load your data -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <!-- All JavaScript goes inside the script tags below -->
   <script>
+    // ---------- A11Y helpers ----------
+
+    const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    // Escape text before placing it in popup HTML
+    function esc(value) {
+      return String(value == null ? '' : value)
+        .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+    }
+
+    function truncate(text, max) {
+      text = String(text == null ? '' : text);
+      return text.length > max ? text.slice(0, max - 1) + '\u2026' : text;
+    }
+
+    // External link that tells screen-reader users where it goes and that it opens a new tab (WCAG 2.4.4, 3.2.5)
+    function extLink(href, text, context) {
+      return '<a href="' + esc(href) + '" target="_blank" rel="noopener noreferrer">' + esc(text) +
+        '<span class="sr-only"> ' + (context ? esc(context) + ' ' : '') + '(opens in a new tab)</span></a>';
+    }
+
+    function plural(n, word) {
+      return n + ' ' + word + (n === 1 ? '' : 's');
+    }
+
+    // Original rule for "named" buildings
+    function isNamed(feature) {
+      return feature.properties.Name !== " ";
+    }
+
     // define map options
     const mapOptions = {
       center: [41.662, -91.538], // center the map on the coordinates for Iowa City
       zoom: 16, // set the initial zoom
       minZoom: 13,
-      maxZoom: 20
+      maxZoom: 20,
+      // A11Y: no animated zoom/pan/fade for people who ask for reduced motion
+      zoomAnimation: !prefersReducedMotion,
+      fadeAnimation: !prefersReducedMotion,
+      markerZoomAnimation: !prefersReducedMotion
     };
 
     // define the map with the options above
@@ -199,6 +447,202 @@
     const photosGroup = L.layerGroup().addTo(map);
     const protestsGroup = L.layerGroup().addTo(map);
 
+    // ---------- A11Y: popup focus management ----------
+    // Move focus into a popup when it opens, give it dialog semantics, and return focus to
+    // whatever opened it when it closes (WCAG 2.4.3, 4.1.2).
+    let popupTrigger = null;
+    let popupIsOpen = false;
+
+    map.on('popupopen', function(e) {
+      if (!popupIsOpen) { popupTrigger = document.activeElement; }
+      popupIsOpen = true;
+
+      const el = e.popup.getElement ? e.popup.getElement() : e.popup._container;
+      if (!el) { return; }
+
+      const titleEl = el.querySelector('strong, [data-popup-title]');
+      el.setAttribute('role', 'dialog');
+      el.setAttribute('aria-label', titleEl ? truncate(titleEl.textContent, 80) : 'Map feature details');
+      el.setAttribute('tabindex', '-1');
+
+      const close = el.querySelector('.leaflet-popup-close-button');
+      if (close) {
+        // Leaflet 1.9 already sets role="button" and aria-label; only fill in if missing
+        if (!close.getAttribute('role')) { close.setAttribute('role', 'button'); }
+        if (!close.getAttribute('aria-label')) { close.setAttribute('aria-label', 'Close details'); }
+        close.addEventListener('keydown', function(ev) {
+          if (ev.key === ' ') { ev.preventDefault(); close.click(); }
+        });
+      }
+
+      el.focus({ preventScroll: true });
+    });
+
+    map.on('popupclose', function() {
+      popupIsOpen = false;
+      // Wait a tick: if another popup is opening right now, don't steal focus back
+      setTimeout(function() {
+        if (!popupIsOpen && popupTrigger && popupTrigger !== document.body && document.body.contains(popupTrigger)) {
+          popupTrigger.focus();
+        }
+      }, 0);
+    });
+
+    // Escape closes the text panel (if focus is in it) or the open popup (WCAG 2.1.1).
+    // Leaflet only handles Escape while the map container itself has focus (still true in 1.9).
+    document.addEventListener('keydown', function(e) {
+      if (e.key !== 'Escape') { return; }
+      const panel = document.getElementById('text-panel');
+      if (!panel.hidden && panel.contains(document.activeElement)) {
+        setPanel(false, true);
+      } else if (popupIsOpen) {
+        map.closePopup();
+      }
+    });
+
+    // ---------- A11Y: text list of what the map currently shows ----------
+    const panelEl = document.getElementById('text-panel');
+    const panelTitleEl = document.getElementById('text-panel-title');
+    const panelBodyEl = document.getElementById('text-panel-body');
+    let textListBtn = null;
+
+    const TextListControl = L.Control.extend({
+      options: { position: 'bottomleft' },
+      onAdd: function() {
+        const div = L.DomUtil.create('div', 'leaflet-bar leaflet-control text-list-control');
+        textListBtn = L.DomUtil.create('button', '', div);
+        textListBtn.type = 'button';
+        textListBtn.textContent = 'Text list of features';
+        textListBtn.setAttribute('aria-expanded', 'false');
+        textListBtn.setAttribute('aria-controls', 'text-panel');
+        L.DomEvent.disableClickPropagation(div);
+        textListBtn.addEventListener('click', function() {
+          setPanel(panelEl.hidden, true);
+        });
+        return div;
+      }
+    });
+    new TextListControl().addTo(map);
+
+    document.getElementById('text-panel-close').addEventListener('click', function() {
+      setPanel(false, true);
+    });
+
+    function setPanel(open, moveFocus) {
+      panelEl.hidden = !open;
+      textListBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      if (open) {
+        renderTextList();
+        if (moveFocus) { panelTitleEl.focus(); }
+      } else if (moveFocus) {
+        textListBtn.focus();
+      }
+    }
+
+    // Pan to a feature and open its popup (used by the text list)
+    function showFeature(layer) {
+      const latlng = layer.getLatLng ? layer.getLatLng() : layer.getBounds().getCenter();
+      if (window.matchMedia('(max-width: 640px)').matches) {
+        // the panel would cover the map on small screens, so close it first
+        setPanel(false, false);
+        textListBtn.focus();
+      }
+      map.setView(latlng, Math.max(map.getZoom(), 17), { animate: !prefersReducedMotion });
+      layer.openPopup();
+    }
+
+    function renderTextList() {
+      const year = $('.slider').val();
+      panelTitleEl.textContent = 'Map features for ' + year;
+      panelBodyEl.textContent = '';
+
+      function addSection(heading, items, emptyMessage) {
+        const h3 = document.createElement('h3');
+        h3.textContent = heading + ' (' + items.length + ')';
+        panelBodyEl.appendChild(h3);
+
+        if (!items.length) {
+          const p = document.createElement('p');
+          p.style.margin = '0';
+          p.textContent = emptyMessage;
+          panelBodyEl.appendChild(p);
+          return;
+        }
+        const ul = document.createElement('ul');
+        items.forEach(function(item) {
+          const li = document.createElement('li');
+          const b = document.createElement('button');
+          b.type = 'button';
+          b.textContent = item.label;
+          b.addEventListener('click', function() { showFeature(item.layer); });
+          li.appendChild(b);
+          ul.appendChild(li);
+        });
+        panelBodyEl.appendChild(ul);
+      }
+
+      const named = [];
+      let unnamedCount = 0;
+      if (map.hasLayer(buildingsGroup)) {
+        buildingsGroup.eachLayer(function(layer) {
+          if (isNamed(layer.feature)) {
+            const built = new Date(layer.feature.properties.STDATE).getFullYear();
+            named.push({
+              layer: layer,
+              label: layer.feature.properties.Name + (isFinite(built) ? ' (built ' + built + ')' : '')
+            });
+          } else {
+            unnamedCount++;
+          }
+        });
+      }
+      addSection('Buildings', named, 'No named buildings for this year, or the Buildings layer is turned off.');
+      if (unnamedCount) {
+        const note = document.createElement('p');
+        note.style.margin = '4px 0 0';
+        note.textContent = plural(unnamedCount, 'additional unnamed building') + ' shown on the map.';
+        panelBodyEl.appendChild(note);
+      }
+
+      const photoItems = [];
+      if (map.hasLayer(photosGroup)) {
+        photosGroup.eachLayer(function(layer) {
+          photoItems.push({ layer: layer, label: layer.feature.properties.Name_1 || 'Untitled photograph' });
+        });
+      }
+      addSection('Photographs', photoItems, 'No photographs for this year, or the Photos layer is turned off.');
+
+      const protestItems = [];
+      if (map.hasLayer(protestsGroup)) {
+        protestsGroup.eachLayer(function(layer) {
+          protestItems.push({ layer: layer, label: layer.feature.properties.Activity || 'Protest' });
+        });
+      }
+      addSection('Protests', protestItems, 'No protests for this year, or the Protests layer is turned off.');
+    }
+
+    // ---------- A11Y: announce changes to screen-reader users (WCAG 4.1.3) ----------
+    let statusTimer = null;
+
+    function scheduleStatusUpdate() {
+      clearTimeout(statusTimer);
+      statusTimer = setTimeout(function() {
+        const year = $('.slider').val();
+        let named = 0;
+        if (map.hasLayer(buildingsGroup)) {
+          buildingsGroup.eachLayer(function(layer) { if (isNamed(layer.feature)) { named++; } });
+        }
+        const photoCount = map.hasLayer(photosGroup) ? photosGroup.getLayers().length : 0;
+        const protestCount = map.hasLayer(protestsGroup) ? protestsGroup.getLayers().length : 0;
+
+        $('#map-status').text(
+          year + ': ' + plural(named, 'named building') + ', ' + plural(photoCount, 'photograph') +
+          ', ' + plural(protestCount, 'protest') + ' shown on the map.'
+        );
+        if (!panelEl.hidden) { renderTextList(); }
+      }, 500); // debounce so holding an arrow key doesn't flood the screen reader
+    }
+
     // use jquery to load GeoJSON data
     $.when(
       $.getJSON("data/blds.json"),
@@ -211,6 +655,12 @@
       // define the value in the slider when the map loads
       let currentYear = $('.slider').val();
 
+      // Building styles. Outline weight raised from 0.5 to 1 so building shapes meet
+      // the 3:1 non-text contrast requirement (WCAG 1.4.11).
+      const bldgBase    = { fillOpacity: 1.0, color: 'black', weight: 1 };
+      const bldgHover   = { fillOpacity: 0.5, color: 'black', weight: 1.5 };
+      const bldgFocus   = { fillOpacity: 0.5, color: '#005fcc', weight: 3 };
+
       // add the buildings to the map
       const buildings = L.geoJson(blds, {
         // style the layer
@@ -220,14 +670,14 @@
               fillColor: '#ff8c84',
               fillOpacity: 1.0,
               color: 'black',
-              weight: 0.5 // give the outline a weight
+              weight: 1 // give the outline a weight
             }
           } else {
             return {
               fillColor: 'grey',
               fillOpacity: 1.0,
               color: 'black',
-              weight: 0.5 // give the outline a weight
+              weight: 1 // give the outline a weight
             }
           }
         },
@@ -235,42 +685,57 @@
         onEachFeature: function(feature, layer) {
           // on mouseover...
           layer.on("mouseover", function() {
-            // reset the layer's style
-            layer.setStyle({
-              fillOpacity: 0.5,
-              color: 'black',
-              weight: 0.75 // give the outline a weight
-            })
+            layer.setStyle(bldgHover);
           });
           // on mouseout...
           layer.on("mouseout", function() {
-            // reset the layer's style
-            layer.setStyle({
-              fillOpacity: 1.0,
-              color: 'black',
-              weight: 0.5 // give the outline a weight
-            })
+            const el = layer.getElement ? layer.getElement() : layer._path;
+            layer.setStyle(el && el === document.activeElement ? bldgFocus : bldgBase);
           });
 
           const bldgName = (feature.properties.Name !== " ") ? feature.properties.Name : 'Building';
-          const bldgYear = (new Date(feature.properties.STDATE).getFullYear() !== "") ? new Date(feature.properties.STDATE).getFullYear() : "";
-          const bldgNameUrl = (feature.properties.Name !== " ") ? '<a href="https://digital.lib.uiowa.edu/islandora/search/' + feature.properties.Name.replace(/ /g, '%20') + '?type=dismax&islandora_solr_search_navigation=0&f[0]=mods_subject_temporal_ms%3A%221960\-1970%22"  target="_blank">Search IDL for 1960s Era Connections</a>' : "";
+          const bldgYearRaw = new Date(feature.properties.STDATE).getFullYear();
+          // A11Y: don't read "NaN" aloud when a building has no usable start date
+          const bldgYear = isFinite(bldgYearRaw) ? bldgYearRaw : "";
+          const bldgNameUrl = (feature.properties.Name !== " ")
+            ? extLink(
+                'https://digital.lib.uiowa.edu/islandora/search/' + encodeURIComponent(feature.properties.Name) + '?type=dismax&islandora_solr_search_navigation=0&f[0]=mods_subject_temporal_ms%3A%221960-1970%22',
+                'Search IDL for 1960s Era Connections',
+                'for ' + feature.properties.Name)
+            : "";
 
-          let popupContent;
+          let popupContent = '';
 
-          if (bldgName !== 'Building' && bldgYear !== "") {
-            popupContent = '<b>' + bldgName + '</b><br>' + bldgYear + '<br>' + bldgNameUrl;
-          } if (bldgName !== 'Building' && bldgYear == "") {
-            popupContent = '<b>' + bldgName + '</b><br>' + bldgNameUrl;
-          } if (bldgName == 'Building' && bldgYear == "") {
-            popupContent = '';
-          } if (bldgName == 'Building' && bldgYear !== "") {
-            popupContent = '';
+          if (bldgName !== 'Building') {
+            popupContent = '<strong>' + esc(bldgName) + '</strong><br>' +
+              (bldgYear !== "" ? esc(bldgYear) + '<br>' : '') + bldgNameUrl;
           }
 
           if (popupContent !== '') {
             layer.bindPopup(popupContent);
           };
+
+          // A11Y: make named buildings reachable and operable by keyboard; hide unnamed ones from assistive tech
+          layer.on('add', function() {
+            const el = layer.getElement ? layer.getElement() : layer._path;
+            if (!el) { return; }
+            if (popupContent !== '') {
+              el.setAttribute('tabindex', '0');
+              el.setAttribute('role', 'button');
+              el.setAttribute('aria-haspopup', 'dialog');
+              el.setAttribute('aria-label', bldgName + (bldgYear !== "" ? ', ' + bldgYear : '') + '. Press Enter for details.');
+              el.addEventListener('keydown', function(ev) {
+                if (ev.key === 'Enter' || ev.key === ' ') {
+                  ev.preventDefault();
+                  layer.openPopup();
+                }
+              });
+              el.addEventListener('focus', function() { layer.setStyle(bldgFocus); });
+              el.addEventListener('blur', function() { layer.setStyle(bldgBase); });
+            } else {
+              el.setAttribute('aria-hidden', 'true');
+            }
+          });
 
           const startYear = new Date(feature.properties.STDATE).getFullYear();
           const endYear = new Date(feature.properties.ENDATE).getFullYear();
@@ -288,40 +753,41 @@
       const photos = L.geoJson(pics, {
         // add points as the custom camera icon instead of the default leaflet markers
         pointToLayer: function createCustomIcon (feature, latlng) {
+          const label = 'Photograph: ' + (feature.properties.Name_1 || 'Untitled');
           let myIcon = L.icon({
             iconUrl: 'icons/camera_icon.png',
             iconSize:     [30, 30], // width and height of the image in pixels
             iconAnchor:   [15, 15], // point of the icon which will correspond to marker's location
-            popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
+            popupAnchor:  [0, 0], // point from which the popup should open relative to the iconAnchor
+            className: 'photo-icon'
           })
-          return L.marker(latlng, { icon: myIcon })
+          // A11Y: alt/title give each marker an accessible name; keyboard:true (default) makes it tabbable
+          return L.marker(latlng, { icon: myIcon, alt: label, title: label, keyboard: true })
         },
         // iterate through each feature
         onEachFeature: function(feature, layer) {
-          // on mouseover...
-          layer.on("mouseover", function(e) {
-            // reset the layer's style
-            e.target.setIcon(new L.icon({
-              iconUrl: 'icons/camera_icon.png',
-              iconSize:     [35, 35], // width and height of the image in pixels
-              iconAnchor:   [15, 15], // point of the icon which will correspond to marker's location
-              popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
-            }));
+          // A11Y: hover/focus enlargement moved to CSS (.photo-icon:hover / :focus).
+          // Marker semantics + Space key (Leaflet already handles Enter on markers).
+          layer.on('add', function() {
+            const el = layer.getElement();
+            if (!el) { return; }
+            el.setAttribute('role', 'button');
+            el.setAttribute('aria-haspopup', 'dialog');
+            el.setAttribute('aria-label', 'Photograph: ' + (feature.properties.Name_1 || 'Untitled') + '. Press Enter for details.');
+            el.addEventListener('keydown', function(ev) {
+              if (ev.key === ' ') { ev.preventDefault(); layer.openPopup(); }
+            });
           });
-          // on mouseout...
-          layer.on("mouseout", function(e) {
-            // reset the layer's style
-            e.target.setIcon(new L.icon({
-              iconUrl: 'icons/camera_icon.png',
-              iconSize:     [30, 30], // width and height of the image in pixels
-              iconAnchor:   [15, 15], // point of the icon which will correspond to marker's location
-              popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
-            }));
-          });
+
+          const photoTitle = feature.properties.Name_1;
           // bind a popup
-          layer.bindPopup('<b>' + feature.properties.Name_1 + '</b><br>' + '<img src="' + feature.properties.URL + '/datastream/TN/view"/>' + '<br><a href="' + feature.properties.URL + '"  target="_blank">Click here for full-size image</a>', {
-            maxWidth: 200
-          });
+          layer.bindPopup(
+            '<strong>' + esc(photoTitle) + '</strong><br>' +
+            // A11Y: alt text for the thumbnail (WCAG 1.1.1). Best practice: add a real description field to the data.
+            '<img src="' + esc(feature.properties.URL) + '/datastream/TN/view" alt="Archival photograph: ' + esc(photoTitle || 'untitled') + '" style="max-width:100%;height:auto;">' +
+            '<br>' + extLink(feature.properties.URL, 'View full-size image', 'of ' + (photoTitle || 'this photograph')),
+            { maxWidth: 200 }
+          );
 
           const startYear = new Date(feature.properties.STARTDATE).getFullYear();
           const endYear = new Date(feature.properties.ENDATE).getFullYear();
@@ -336,45 +802,39 @@
       });
       // add the protest points to the map
       const protests = L.geoJson(demos, {
-        // add points as the custom camera icon instead of the default leaflet markers
+        // add points as the custom protest icon instead of the default leaflet markers
         pointToLayer: function createCustomIcon (feature, latlng) {
+          const label = 'Protest: ' + truncate(feature.properties.Activity, 80);
           let myIcon = L.icon({
             iconUrl: 'icons/protests_icon.png',
             iconSize:     [35, 35], // width and height of the image in pixels
             iconAnchor:   [18, 18], // point of the icon which will correspond to marker's location
-            popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
+            popupAnchor:  [0, 0], // point from which the popup should open relative to the iconAnchor
+            className: 'protest-icon'
           })
-          return L.marker(latlng, { icon: myIcon })
+          return L.marker(latlng, { icon: myIcon, alt: label, title: label, keyboard: true })
         },
         // iterate through each feature
         onEachFeature: function(feature, layer) {
-          // on mouseover...
-          layer.on("mouseover", function(e) {
-            // reset the layer's style
-            e.target.setIcon(new L.icon({
-              iconUrl: 'icons/protests_icon.png',
-              iconSize:     [40, 40], // width and height of the image in pixels
-              iconAnchor:   [18, 18], // point of the icon which will correspond to marker's location
-              popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
-            }));
-          });
-          // on mouseout...
-          layer.on("mouseout", function(e) {
-            // reset the layer's style
-            e.target.setIcon(new L.icon({
-              iconUrl: 'icons/protests_icon.png',
-              iconSize:     [35, 35], // width and height of the image in pixels
-              iconAnchor:   [18, 18], // point of the icon which will correspond to marker's location
-              popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
-            }));
+          // A11Y: hover/focus enlargement moved to CSS (.protest-icon:hover / :focus).
+          layer.on('add', function() {
+            const el = layer.getElement();
+            if (!el) { return; }
+            el.setAttribute('role', 'button');
+            el.setAttribute('aria-haspopup', 'dialog');
+            el.setAttribute('aria-label', 'Protest: ' + truncate(feature.properties.Activity, 80) + '. Press Enter for details.');
+            el.addEventListener('keydown', function(ev) {
+              if (ev.key === ' ') { ev.preventDefault(); layer.openPopup(); }
+            });
           });
 
           let popupContent;
 
           if (feature.properties.source != "") {
-            popupContent = feature.properties.Activity + '<br>' + '<a href="' + feature.properties.source + '"  target="_blank">Source</a>';
+            popupContent = '<span data-popup-title>' + esc(feature.properties.Activity) + '</span><br>' +
+              extLink(feature.properties.source, 'View source', 'for this protest');
           } else {
-            popupContent = feature.properties.Activity;
+            popupContent = '<span data-popup-title>' + esc(feature.properties.Activity) + '</span>';
           }
           // bind a popup
           layer.bindPopup(popupContent);
@@ -394,6 +854,7 @@
       // call functions defined below
       sequenceUI(buildings, photos, protests); // calls the time slider and sends the layers to it
       createTemporalLegend(currentYear); // calls the createTemporalLegend function
+      scheduleStatusUpdate(); // A11Y: announce what is initially shown
 
       const baseLayers = {
         "Sixties Base":initTiles,
@@ -408,9 +869,18 @@
         "Protests":protestsGroup
       };
 
-      L.control.layers(baseLayers, overlays,{
+      const layersControl = L.control.layers(baseLayers, overlays,{
         collapsed:false,
       }).addTo(map);
+
+      // A11Y: name the layer control group, and keep arrow keys inside it from reaching the map
+      const layersEl = layersControl.getContainer();
+      layersEl.setAttribute('role', 'group');
+      layersEl.setAttribute('aria-label', 'Map layers');
+      L.DomEvent.on(layersEl, 'keydown', L.DomEvent.stopPropagation);
+
+      // A11Y: keep the text list and status in sync when layers are toggled
+      map.on('overlayadd overlayremove', scheduleStatusUpdate);
 
       L.control.scale().addTo(map);
 
@@ -469,6 +939,8 @@
             };
 
           });
+
+          scheduleStatusUpdate(); // A11Y: announce the new counts and refresh the text list
 
         });
 
