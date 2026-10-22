@@ -191,12 +191,19 @@
     }
 
     /* A11Y: hover enlargement now done in CSS so it also applies on keyboard focus,
-       and no longer rebuilds the marker element (which dropped keyboard focus). */
+       and no longer rebuilds the marker element (which dropped keyboard focus).
+       Sizes match the original JS (30 -> 35 px and 35 -> 40 px, same anchors). Width/height are used
+       instead of transform/scale because Leaflet positions markers with transform. */
     .photo-icon:hover,
-    .photo-icon:focus,
+    .photo-icon:focus {
+      width: 35px !important;
+      height: 35px !important;
+    }
+
     .protest-icon:hover,
     .protest-icon:focus {
-      scale: 1.17;
+      width: 40px !important;
+      height: 40px !important;
     }
 
     /* ---------- Text-list control and panel (non-visual alternative to the map) ---------- */
@@ -399,6 +406,16 @@
       return feature.properties.Name !== " ";
     }
 
+    // ---------- Iowa Digital Library (IDL) URL settings ----------
+    // The IDL moved from Islandora 7 to Drupal; site-specific URLs live here so they are easy to change.
+    const IDL = {
+      // Full-text search restricted to the 1960-1970 temporal subject (used by the building popups)
+      searchUrl: function(term) {
+        return 'https://digital.lib.uiowa.edu/solr-search/content/grid?search_api_fulltext=' +
+          encodeURIComponent(term) + '&field_ancestors=&f%5B0%5D=temporal_subject%3A1960-1970';
+      }
+    };
+
     // define map options
     const mapOptions = {
       center: [41.662, -91.538], // center the map on the coordinates for Iowa City
@@ -436,10 +453,11 @@
       maxZoom: 20
     });
 
-    const CartoDB_Voyager = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
-    	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-    	subdomains: 'abcd',
-    	maxZoom: 20
+    // Standard OpenStreetMap basemap (the default Leaflet example layer)
+    const OSM_Standard = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxNativeZoom: 19,
+      maxZoom: 20,
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     });
 
     // Define empty layer groups
@@ -698,10 +716,7 @@
           // A11Y: don't read "NaN" aloud when a building has no usable start date
           const bldgYear = isFinite(bldgYearRaw) ? bldgYearRaw : "";
           const bldgNameUrl = (feature.properties.Name !== " ")
-            ? extLink(
-                'https://digital.lib.uiowa.edu/islandora/search/' + encodeURIComponent(feature.properties.Name) + '?type=dismax&islandora_solr_search_navigation=0&f[0]=mods_subject_temporal_ms%3A%221960-1970%22',
-                'Search IDL for 1960s Era Connections',
-                'for ' + feature.properties.Name)
+            ? extLink(IDL.searchUrl(feature.properties.Name), 'Search IDL for 1960s Era Connections', 'for ' + feature.properties.Name)
             : "";
 
           let popupContent = '';
@@ -860,7 +875,7 @@
         "Sixties Base":initTiles,
         "Campus Map, 1969":tiles1969,
         "Campus Map, 1972":tiles1972,
-        "Contemporary Base":CartoDB_Voyager
+        "Contemporary Base":OSM_Standard
       };
 
       const overlays = {
