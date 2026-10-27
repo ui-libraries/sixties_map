@@ -413,6 +413,15 @@
       searchUrl: function(term) {
         return 'https://digital.lib.uiowa.edu/solr-search/content/grid?search_api_fulltext=' +
           encodeURIComponent(term) + '&field_ancestors=&f%5B0%5D=temporal_subject%3A1960-1970';
+      },
+      // The old Islandora thumbnail (/datastream/TN/view) no longer exists. The Drupal site serves
+      // IIIF images whose ID is the base64url of the old Islandora object ID, so we can build it directly.
+      // oldUrl looks like https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_3812
+      thumbUrl: function(oldUrl, size) {
+        const pid = String(oldUrl).split('/').pop();
+        const path = '/_foxml/datastream/' + encodeURIComponent(pid) + '%2BJP2%2BJP2.0';
+        const token = btoa(path).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+        return 'https://digital.lib.uiowa.edu/iiif/2/' + token + '~ui-prod/full/' + (size || '!256,256') + '/0/default.jpg';
       }
     };
 
@@ -799,7 +808,7 @@
           layer.bindPopup(
             '<strong>' + esc(photoTitle) + '</strong><br>' +
             // A11Y: alt text for the thumbnail (WCAG 1.1.1). Best practice: add a real description field to the data.
-            '<img src="' + esc(feature.properties.URL) + '/datastream/TN/view" alt="Archival photograph: ' + esc(photoTitle || 'untitled') + '" style="max-width:100%;height:auto;">' +
+            '<img src="' + esc(IDL.thumbUrl(feature.properties.URL)) + '" alt="Archival photograph: ' + esc(photoTitle || 'untitled') + '" style="max-width:100%;height:auto;">' +
             '<br>' + extLink(feature.properties.URL, 'View full-size image', 'of ' + (photoTitle || 'this photograph')),
             { maxWidth: 200 }
           );
