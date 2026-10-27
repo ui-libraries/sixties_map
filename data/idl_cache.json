@@ -1,0 +1,1634 @@
+{
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_53": {
+  "node": "654045",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfNTMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_54": {
+  "node": "867371",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfNTQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_57": {
+  "node": "759593",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfNTclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_73": {
+  "node": "619955",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfNzMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_76": {
+  "node": "130209",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfNzYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_92": {
+  "node": "373660",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfOTIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_94": {
+  "node": "116494",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfOTQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_100": {
+  "node": "254490",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTAwJTJCSlAyJTJCSlAyLjA%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_101": {
+  "node": "120418",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTAxJTJCSlAyJTJCSlAyLjA%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_282": {
+  "node": "653344",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMjgyJTJCSlAyJTJCSlAyLjA%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_291": {
+  "node": "657698",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMjkxJTJCSlAyJTJCSlAyLjA%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_329": {
+  "node": "600076",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMzI5JTJCSlAyJTJCSlAyLjA%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_334": {
+  "node": "662096",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMzM0JTJCSlAyJTJCSlAyLjA%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_335": {
+  "node": "873592",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMzM1JTJCSlAyJTJCSlAyLjA%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_365": {
+  "node": "673592",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMzY1JTJCSlAyJTJCSlAyLjA%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_373": {
+  "node": "309017",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMzczJTJCSlAyJTJCSlAyLjA%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_381": {
+  "node": "284990",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMzgxJTJCSlAyJTJCSlAyLjA%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_386": {
+  "node": "751433",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMzg2JTJCSlAyJTJCSlAyLjA%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_402": {
+  "node": "160694",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfNDAyJTJCSlAyJTJCSlAyLjA%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_415": {
+  "node": "173673",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfNDE1JTJCSlAyJTJCSlAyLjA%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_419": {
+  "node": "310304",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfNDE5JTJCSlAyJTJCSlAyLjA%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_558": {
+  "node": "634378",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfNTU4JTJCSlAyJTJCSlAyLjA%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_689": {
+  "node": "111160",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfNjg5JTJCSlAyJTJCSlAyLjM%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_774": {
+  "node": "155236",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfNzc0JTJCSlAyJTJCSlAyLjA%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_829": {
+  "node": "345333",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfODI5JTJCSlAyJTJCSlAyLjA%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_830": {
+  "node": "695457",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfODMwJTJCSlAyJTJCSlAyLjA%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_869": {
+  "node": "205981",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfODY5JTJCSlAyJTJCSlAyLjA%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_875": {
+  "node": "574036",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfODc1JTJCSlAyJTJCSlAyLjA%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_889": {
+  "node": "280331",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfODg5JTJCSlAyJTJCSlAyLjA%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_890": {
+  "node": "316488",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfODkwJTJCSlAyJTJCSlAyLjA%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_1023": {
+  "node": "340785",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTAyMyUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_1024": {
+  "node": "828933",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTAyNCUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_1030": {
+  "node": "237723",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTAzMCUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_1078": {
+  "node": "552993",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTA3OCUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_1079": {
+  "node": "44426",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTA3OSUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_1118": {
+  "node": "392185",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTExOCUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_1119": {
+  "node": "464334",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTExOSUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_1120": {
+  "node": "651311",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTEyMCUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_1181": {
+  "node": "706602",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTE4MSUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_1202": {
+  "node": "512148",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTIwMiUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_1212": {
+  "node": "892182",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTIxMiUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_1220": {
+  "node": "807346",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTIyMCUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_1225": {
+  "node": "821022",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTIyNSUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_1226": {
+  "node": "649950",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTIyNiUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_1228": {
+  "node": "528948",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTIyOCUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_1229": {
+  "node": "854338",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTIyOSUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_1230": {
+  "node": "332149",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTIzMCUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_1231": {
+  "node": "299274",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTIzMSUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_1232": {
+  "node": "656843",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTIzMiUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_1258": {
+  "node": "787604",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTI1OCUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_1290": {
+  "node": "59894",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTI5MCUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_1291": {
+  "node": "338300",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTI5MSUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_1293": {
+  "node": "288949",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTI5MyUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_2287": {
+  "node": "717673",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMjI4NyUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_3775": {
+  "node": "404443",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMzc3MyUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_3790": {
+  "node": "189853",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMzc4OCUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_3796": {
+  "node": "18296",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMzc5NCUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_3811": {
+  "node": "655407",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMzgxMSUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_3812": {
+  "node": "865805",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMzgxMiUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_3946": {
+  "node": "87435",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMzk0NiUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_3947": {
+  "node": "216414",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMzk0NyUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_3948": {
+  "node": "110708",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMzk0OCUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_3949": {
+  "node": "868227",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMzk0OSUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_3950": {
+  "node": "766122",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMzk1MCUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_3952": {
+  "node": "873903",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMzk1MiUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_3953": {
+  "node": "747383",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMzk1MyUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_3959": {
+  "node": "382362",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMzk1NyUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_4017": {
+  "node": "281969",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfNDAxNSUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_4951": {
+  "node": "246794",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfNDk0OSUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_6212": {
+  "node": "71115",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfNjIxMCUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_6335": {
+  "node": "224831",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfNjMzMyUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_6359": {
+  "node": "101696",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfNjM1NyUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_6541": {
+  "node": "524994",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfNjU0MSUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_6584": {
+  "node": "768522",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfNjU4NCUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_7212": {
+  "node": "193238",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfNzIxMiUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_8992": {
+  "node": "382843",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfODk5MCUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_8995": {
+  "node": "533672",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfODk5MyUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_9063": {
+  "node": "760144",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfOTA2MSUyQkpQMiUyQkpQMi4z~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_9505": {
+  "node": "334542",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfOTUwMyUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_9618": {
+  "node": "257906",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfOTYxNiUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_9654": {
+  "node": "152080",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfOTY1MiUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_9958": {
+  "node": "198470",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfOTk1NiUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_9961": {
+  "node": "683194",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfOTk1OSUyQkpQMiUyQkpQMi4w~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_10191": {
+  "node": "134965",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTAxODklMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_10383": {
+  "node": "95471",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTAzODElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_10609": {
+  "node": "147168",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTA2MDclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_10924": {
+  "node": "320920",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTA5MjQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_11060": {
+  "node": "31464",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTEwNjAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_11062": {
+  "node": "401730",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTEwNjIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_11063": {
+  "node": "646191",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTEwNjMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_11064": {
+  "node": "615264",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTEwNjQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_11065": {
+  "node": "502715",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTEwNjUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_11066": {
+  "node": "890034",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTEwNjYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_11068": {
+  "node": "614279",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTEwNjglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_11069": {
+  "node": "738541",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTEwNjklMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_11070": {
+  "node": "163640",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTEwNzAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_11071": {
+  "node": "722575",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTEwNzElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_11072": {
+  "node": "751894",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTEwNzIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_11073": {
+  "node": "833173",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTEwNzMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_11074": {
+  "node": "460612",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTEwNzQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_11075": {
+  "node": "640319",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTEwNzUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_11076": {
+  "node": "271260",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTEwNzYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_11077": {
+  "node": "201516",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTEwNzclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_11079": {
+  "node": "149845",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTEwNzklMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_11726": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_11729": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_11780": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_11792": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_11840": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_12095": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_12110": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_12275": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_12299": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_12302": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_12320": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_12326": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_12338": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13003": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13068": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13114": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13154": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13157": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13173": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13233": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13253": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13311": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13371": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13372": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13407": {
+  "node": "738402",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM0MDclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13466": {
+  "node": "431304",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM0NjYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13533": {
+  "node": "841680",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM1MzMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13544": {
+  "node": "612952",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM1NDQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13545": {
+  "node": "676656",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM1NDUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13547": {
+  "node": "7170",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM1NDclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13548": {
+  "node": "879254",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM1NDglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13549": {
+  "node": "491920",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM1NDklMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13550": {
+  "node": "65583",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM1NTAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13551": {
+  "node": "842083",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM1NTElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13552": {
+  "node": "675855",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM1NTIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13553": {
+  "node": "579882",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM1NTMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13554": {
+  "node": "258001",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM1NTQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13555": {
+  "node": "148322",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM1NTUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13556": {
+  "node": "607673",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM1NTYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13560": {
+  "node": "767062",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM1NjAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13562": {
+  "node": "625107",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM1NjIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13563": {
+  "node": "788119",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM1NjMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13564": {
+  "node": "372484",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM1NjQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13636": {
+  "node": "247839",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM2MzYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13646": {
+  "node": "734511",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM2NDYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13747": {
+  "node": "603654",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM3NDclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13800": {
+  "node": "121431",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM4MDAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13863": {
+  "node": "849239",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM4NjMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13864": {
+  "node": "97400",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM4NjQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13867": {
+  "node": "502974",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM4NjclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13873": {
+  "node": "648507",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM4NzMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13874": {
+  "node": "904430",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM4NzQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13876": {
+  "node": "83666",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM4NzYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13892": {
+  "node": "333940",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM4OTIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13894": {
+  "node": "678139",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM4OTQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13895": {
+  "node": "788777",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM4OTUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13940": {
+  "node": "8330",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM5MzglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_13946": {
+  "node": "291185",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTM5NDQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14090": {
+  "node": "248640",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQwODglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14093": {
+  "node": "349744",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQwOTElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14099": {
+  "node": "393881",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQwOTclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14131": {
+  "node": "243798",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQxMjklMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14134": {
+  "node": "427454",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQxMzIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14137": {
+  "node": "281791",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQxMzUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14140": {
+  "node": "416686",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQxMzglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14254": {
+  "node": "634723",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQyNTIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14257": {
+  "node": "359771",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQyNTUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14260": {
+  "node": "334404",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQyNTglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14272": {
+  "node": "279530",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQyNzAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14275": {
+  "node": "448321",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQyNzMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14278": {
+  "node": "83266",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQyNzYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14281": {
+  "node": "378003",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQyNzklMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14287": {
+  "node": "457217",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQyODUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14290": {
+  "node": "400620",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQyODglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14293": {
+  "node": "66846",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQyOTElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14317": {
+  "node": "645303",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQzMTUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14362": {
+  "node": "237559",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQzNjAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14389": {
+  "node": "257132",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQzODclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14392": {
+  "node": "146784",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQzOTAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14398": {
+  "node": "376710",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQzOTYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14494": {
+  "node": "43586",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQ0OTIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14497": {
+  "node": "537719",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQ0OTUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14500": {
+  "node": "504722",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQ0OTglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14524": {
+  "node": "190660",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQ1MjIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14638": {
+  "node": "462307",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQ2MzYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14650": {
+  "node": "184151",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQ2NDglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14692": {
+  "node": "183184",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQ2OTAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14878": {
+  "node": "24174",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQ4NzYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14881": {
+  "node": "79581",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQ4NzklMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14884": {
+  "node": "66191",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQ4ODIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14890": {
+  "node": "89532",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQ4ODglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14896": {
+  "node": "40612",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQ4OTQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14899": {
+  "node": "185125",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQ4OTclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14905": {
+  "node": "406987",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQ5MDMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14923": {
+  "node": "129693",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQ5MjElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14926": {
+  "node": "559178",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQ5MjQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14929": {
+  "node": "387278",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQ5MjclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14932": {
+  "node": "82170",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQ5MzAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14935": {
+  "node": "184557",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQ5MzMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14938": {
+  "node": "88172",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQ5MzYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14941": {
+  "node": "425570",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQ5MzklMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_14944": {
+  "node": "15777",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTQ5NDIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15336": {
+  "node": "672457",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTUzMzQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15339": {
+  "node": "157370",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTUzMzclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15342": {
+  "node": "409807",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTUzNDAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15345": {
+  "node": "386576",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTUzNDMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15348": {
+  "node": "516144",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTUzNDYlMkJKUDIlMkJKUDIuMw%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15354": {
+  "node": "742145",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTUzNTIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15357": {
+  "node": "293163",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTUzNTUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15360": {
+  "node": "405586",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTUzNTglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15369": {
+  "node": "42484",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTUzNjclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15381": {
+  "node": "304077",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTUzNzklMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15387": {
+  "node": "550467",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTUzODUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15390": {
+  "node": "30173",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTUzODglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15423": {
+  "node": "121500",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTU0MjElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15426": {
+  "node": "89364",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTU0MjQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15453": {
+  "node": "328070",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTU0NTElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15498": {
+  "node": "118361",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTU0OTYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15513": {
+  "node": "67495",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTU1MTElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15537": {
+  "node": "562233",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTU1MzUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15540": {
+  "node": "97821",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTU1MzglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15543": {
+  "node": "450430",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTU1NDElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15546": {
+  "node": "266701",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTU1NDQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15549": {
+  "node": "20565",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTU1NDclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15555": {
+  "node": "131405",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTU1NTMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15630": {
+  "node": "125776",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTU2MjglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15648": {
+  "node": "25853",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTU2NDYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15654": {
+  "node": "183407",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTU2NTIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15657": {
+  "node": "79993",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTU2NTUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15663": {
+  "node": "6730",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTU2NjElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15855": {
+  "node": "179144",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTU4NTMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15858": {
+  "node": "551665",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTU4NTYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15867": {
+  "node": "141849",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTU4NjUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_15873": {
+  "node": "271161",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTU4NzElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16059": {
+  "node": "215345",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTYwNTclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16062": {
+  "node": "478491",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTYwNjAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16065": {
+  "node": "483930",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTYwNjMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16218": {
+  "node": "657749",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTYyMTYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16227": {
+  "node": "355310",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTYyMjUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16236": {
+  "node": "341200",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTYyMzQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16242": {
+  "node": "663951",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTYyNDAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16254": {
+  "node": "75359",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTYyNTIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16263": {
+  "node": "205680",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTYyNjElMkJKUDIlMkJKUDIuMw%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16266": {
+  "node": "244759",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTYyNjQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16302": {
+  "node": "267903",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTYzMDAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16305": {
+  "node": "86247",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTYzMDMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16311": {
+  "node": "57765",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTYzMDklMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16314": {
+  "node": "80932",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTYzMTIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16317": {
+  "node": "241913",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTYzMTUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16320": {
+  "node": "464627",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTYzMTglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16323": {
+  "node": "147041",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTYzMjElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16326": {
+  "node": "355544",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTYzMjQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16329": {
+  "node": "462458",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTYzMjclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16368": {
+  "node": "91492",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTYzNjYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16380": {
+  "node": "148936",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTYzNzglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16386": {
+  "node": "354331",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTYzODQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16398": {
+  "node": "296925",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTYzOTYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16401": {
+  "node": "30121",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTYzOTklMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16404": {
+  "node": "714454",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTY0MDIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16407": {
+  "node": "421587",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTY0MDUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16410": {
+  "node": "528356",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTY0MDglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16413": {
+  "node": "651537",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTY0MTElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16440": {
+  "node": "276155",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTY0MzglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16539": {
+  "node": "389093",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTY1MzclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16542": {
+  "node": "433677",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTY1NDAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16575": {
+  "node": "651570",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTY1NzMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16608": {
+  "node": "371703",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTY2MDYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16821": {
+  "node": "337080",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTY4MTklMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16824": {
+  "node": "260021",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTY4MjIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16830": {
+  "node": "284938",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTY4MjglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16854": {
+  "node": "181483",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTY4NTIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16911": {
+  "node": "636636",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTY5MTElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16928": {
+  "node": "727625",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTY5MjglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16945": {
+  "node": "634683",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTY5NDUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_16946": {
+  "node": "24000",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTY5NDYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17074": {
+  "node": "468323",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTcwNzQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17075": {
+  "node": "445667",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTcwNzUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17076": {
+  "node": "40831",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTcwNzYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17106": {
+  "node": "484583",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTcxMDYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17107": {
+  "node": "200666",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTcxMDclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17207": {
+  "node": "942938",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTcyMDclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17216": {
+  "node": "699104",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTcyMTYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17237": {
+  "node": "849018",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTcyMzclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17238": {
+  "node": "804493",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTcyMzglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17250": {
+  "node": "329370",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTcyNTAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17251": {
+  "node": "191950",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTcyNTElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17252": {
+  "node": "426197",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTcyNTIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17565": {
+  "node": "598868",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc1NjUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17566": {
+  "node": "912482",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc1NjYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17567": {
+  "node": "83865",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc1NjclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17568": {
+  "node": "425605",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc1NjglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17570": {
+  "node": "359507",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc1NzAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17571": {
+  "node": "296756",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc1NzElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17572": {
+  "node": "902597",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc1NzIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17574": {
+  "node": "887206",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc1NzQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17632": {
+  "node": "402573",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc2MzIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17633": {
+  "node": "865139",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc2MzMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17635": {
+  "node": "392920",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc2MzUlMkJKUDIlMkJKUDIuMw%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17636": {
+  "node": "846643",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc2MzYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17637": {
+  "node": "340986",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc2MzclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17639": {
+  "node": "461453",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc2MzklMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17687": {
+  "node": "901300",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc2ODclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17688": {
+  "node": "161560",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc2ODglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17707": {
+  "node": "288863",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3MDclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17708": {
+  "node": "647055",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3MDglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17732": {
+  "node": "492181",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3MzIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17733": {
+  "node": "374572",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3MzMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17734": {
+  "node": "537095",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3MzQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17746": {
+  "node": "646849",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3NDYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17747": {
+  "node": "536225",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3NDclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17760": {
+  "node": "269439",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3NjAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17762": {
+  "node": "897861",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3NjIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17776": {
+  "node": "16809",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3NzYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17779": {
+  "node": "736460",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3NzklMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17780": {
+  "node": "8737",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3ODAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17781": {
+  "node": "321438",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3ODElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17782": {
+  "node": "700101",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3ODIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17783": {
+  "node": "526969",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3ODMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17785": {
+  "node": "345669",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3ODUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17786": {
+  "node": "361443",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3ODYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17787": {
+  "node": "53569",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3ODclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17790": {
+  "node": "732216",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3OTAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17791": {
+  "node": "566884",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3OTElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17792": {
+  "node": "465867",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3OTIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17793": {
+  "node": "813269",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3OTMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17794": {
+  "node": "498335",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3OTQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17795": {
+  "node": "694418",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3OTUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17796": {
+  "node": "934007",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3OTYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17797": {
+  "node": "426486",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3OTclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17799": {
+  "node": "71754",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc3OTklMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17800": {
+  "node": "299966",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc4MDAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17801": {
+  "node": "830803",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc4MDElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17802": {
+  "node": "544613",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc4MDIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17813": {
+  "node": "80397",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc4MTMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17816": {
+  "node": "62452",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc4MTYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17817": {
+  "node": "397140",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc4MTclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17830": {
+  "node": "71150",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc4MzAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17903": {
+  "node": "511752",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc5MDMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_17909": {
+  "node": "888056",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTc5MDklMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18038": {
+  "node": "59506",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgwMzglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18039": {
+  "node": "403498",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgwMzklMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18040": {
+  "node": "220092",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgwNDAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18055": {
+  "node": "774860",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgwNTUlMkJKUDIlMkJKUDIuMw%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18180": {
+  "node": "814601",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgxODAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18201": {
+  "node": "840180",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgyMDElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18264": {
+  "node": "647418",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgyNjQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18265": {
+  "node": "451320",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgyNjUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18266": {
+  "node": "143877",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgyNjYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18267": {
+  "node": "539060",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgyNjclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18268": {
+  "node": "416471",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgyNjglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18269": {
+  "node": "634359",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgyNjklMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18270": {
+  "node": "354500",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgyNzAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18271": {
+  "node": "941209",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgyNzElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18272": {
+  "node": "222813",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgyNzIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18273": {
+  "node": "376494",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgyNzMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18275": {
+  "node": "863460",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgyNzUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18276": {
+  "node": "876810",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgyNzYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18277": {
+  "node": "900000",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgyNzclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18278": {
+  "node": "288357",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgyNzglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18279": {
+  "node": "848070",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgyNzklMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18280": {
+  "node": "881254",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgyODAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18281": {
+  "node": "403743",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgyODElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18282": {
+  "node": "707473",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgyODIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18283": {
+  "node": "60357",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgyODMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18385": {
+  "node": "67563",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgzODUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18392": {
+  "node": "284242",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgzOTIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18394": {
+  "node": "717493",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgzOTQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18395": {
+  "node": "204662",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgzOTUlMkJKUDIlMkJKUDIuNA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18396": {
+  "node": "800833",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgzOTYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18397": {
+  "node": "885927",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgzOTclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18398": {
+  "node": "585201",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTgzOTglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18405": {
+  "node": "228917",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTg0MDUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18418": {
+  "node": "666637",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTg0MTglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18419": {
+  "node": "39560",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTg0MTklMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18623": {
+  "node": "654677",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTg2MjMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18658": {
+  "node": "487016",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTg2NTglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18659": {
+  "node": "488203",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTg2NTklMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18703": {
+  "node": "357530",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTg3MDMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18740": {
+  "node": "560990",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTg3NDAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18741": {
+  "node": "766840",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTg3NDElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18763": {
+  "node": "506713",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTg3NjMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18820": {
+  "node": "699517",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTg4MjAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18821": {
+  "node": "793866",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTg4MjElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18822": {
+  "node": "477839",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTg4MjIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18841": {
+  "node": "706928",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTg4NDElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18842": {
+  "node": "265033",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTg4NDIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18873": {
+  "node": "726501",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTg4NzMlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18875": {
+  "node": "137601",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTg4NzUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18876": {
+  "node": "685026",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTg4NzYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_18956": {
+  "node": "798201",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTg5NTYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_19011": {
+  "node": "25612",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTkwMTElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_19022": {
+  "node": "755277",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTkwMjIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_19030": {
+  "node": "309483",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTkwMzAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_19072": {
+  "node": "122416",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTkwNzIlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_19073": {
+  "node": "156684",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTkwNzMlMkJKUDIlMkJKUDIuMw%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_19134": {
+  "node": "898489",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTkxMzQlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_19135": {
+  "node": "497173",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTkxMzUlMkJKUDIlMkJKUDIuMw%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_19136": {
+  "node": "572584",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTkxMzYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_19137": {
+  "node": "383288",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTkxMzclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_19138": {
+  "node": "394833",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTkxMzglMkJKUDIlMkJKUDIuMw%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_19145": {
+  "node": "45075",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTkxNDUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_19146": {
+  "node": "618953",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTkxNDYlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_19147": {
+  "node": "620431",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTkxNDclMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_19148": {
+  "node": "135764",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTkxNDglMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_19160": {
+  "node": "472725",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTkxNjAlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_19161": {
+  "node": "798952",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTkxNjElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_19170": {
+  "node": "775016",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTkxNzAlMkJKUDIlMkJKUDIuMw%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_19185": {
+  "node": "441686",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTkxODUlMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_19261": {
+  "node": "223532",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTkyNTklMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ },
+ "https://digital.lib.uiowa.edu/islandora/object/ui:ictcs_21417": {
+  "node": "63860",
+  "thumb": "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaWN0Y3NfMTg5NzElMkJKUDIlMkJKUDIuMA%3D%3D~ui-prod/full/!256,256/0/default.jpg"
+ }
+}
