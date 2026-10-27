@@ -808,8 +808,8 @@
           layer.bindPopup(
             '<strong>' + esc(photoTitle) + '</strong><br>' +
             // A11Y: alt text for the thumbnail (WCAG 1.1.1). Best practice: add a real description field to the data.
-            '<img src="' + esc(IDL.thumbUrl(feature.properties.URL)) + '" alt="Archival photograph: ' + esc(photoTitle || 'untitled') + '" style="max-width:100%;height:auto;">' +
-            '<br>' + extLink(feature.properties.URL, 'View full-size image', 'of ' + (photoTitle || 'this photograph')),
+            '<img src="' + esc(feature.properties.THUMB || IDL.thumbUrl(feature.properties.URL)) + '" alt="Archival photograph: ' + esc(photoTitle || 'untitled') + '" style="max-width:100%;height:auto;" onerror="this.style.display=\'none\'">' +
+            '<br>' + extLink(feature.properties.NODEURL || feature.properties.URL, 'View full-size image', 'of ' + (photoTitle || 'this photograph')),
             { maxWidth: 200 }
           );
 
